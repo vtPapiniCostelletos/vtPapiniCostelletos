@@ -24,7 +24,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -50,12 +50,17 @@
 
 ###
 
-<h2 data-importer="text" align="left">🏗️ My Projects</h2>
+## 🏗️  Recent Projects
 
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/vtPapini/vtPapini/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div data-importer="techs" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtPapini&layout=compact&theme=github_dark&hide_title=True"/>
 </div>
+
+### [ Studies of Solidy: ](https://github.com/Repo---)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=VtPapini&repo=Solidy-Studies&theme=github_dark&show_owner=True)](https://github.com/Repo---)
+<br>
+Descr. xxxxxx.<br>
+***Libraries Utilized:*** Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
 
 ###
