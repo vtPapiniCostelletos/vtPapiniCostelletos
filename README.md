@@ -1,7 +1,4 @@
-<br clear="both">
-
 <img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
-
 <div align="left">
   <h1 style="display: inline;">I'm Victor Papini Costelletos
     <a href="https://linkedin.com/in/victor-papini" target="_blank">
@@ -12,7 +9,7 @@
 
 <br clear="both">
 
-### 🚀 About Me
+## 🚀 About Me
 
 <p data-importer="text" align="left">
 I'm Victor, a technology professional with a background in data, business, and systems integration.
@@ -25,14 +22,11 @@ I'm Victor, a technology professional with a background in data, business, and s
 <br>
 
 - 💪🏼 Future Goals: Learn more technologies and never stop creating new ideas.
-
 </p>
 
-### 
+<br>
 
----
-
-### 🧰 My Skills
+## 🧰 My Skills
 
 ##### Languages
 
@@ -68,11 +62,9 @@ I'm Victor, a technology professional with a background in data, business, and s
 ![Java](https://img.shields.io/badge/-Java-352F44?style=for-the-badge&logo=openjdk)
 ![Solidity](https://img.shields.io/badge/-Solidity-352F44?style=for-the-badge&logo=solidity&logoColor=pink)
 
+<br>
 
-
----
-
-### 🛸  Recent Projects
+## 🛸  Recent Projects
 
 <div data-importer="techs" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtPapiniCostelletos&layout=compact&theme=github_dark&hide_border=true&hide_title=True" />
