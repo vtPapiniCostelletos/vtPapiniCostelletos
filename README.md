@@ -74,7 +74,7 @@ I'm Victor, a technology professional with a background in data, business, and s
 
 ### [ PY-End to End Economic Data: ](https://github.com/vtPapiniCostelletos/PY-end-to-end-economic-data-BR)
 
-[![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=Solidy-Studies&theme=github_dark)](https://github.com/vtPapiniCostelletos/PY-end-to-end-economic-data-BR)
+[![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=PY-end-to-end-economic-data-BR&theme=github_dark)](https://github.com/vtPapiniCostelletos/PY-end-to-end-economic-data-BR)
 <br>
 Descr. xxxxxx.
 <br>
