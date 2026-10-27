@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
+<img align="left" width="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
 
 <div align="left">
   <h1 style="display: inline;">I'm Victor Papini Costelletos
@@ -7,6 +7,8 @@
     </a>
   </h1>
 </div>
+
+<br clear="both">
 
 ## 🚀 About Me
 
@@ -79,3 +81,7 @@ Descr. xxxxxx.
 
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
+Find me:
+<a href="https://linkedin.com/in/victor-papini" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="22" alt="LinkedIn logo" style="vertical-align: middle;" />
+    </a>
