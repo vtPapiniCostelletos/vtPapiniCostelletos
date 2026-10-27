@@ -1,4 +1,4 @@
-<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
+<img align="left" height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
 <div align="left">
   <h1 style="display: inline;">I'm Victor Papini Costelletos
     <a href="https://linkedin.com/in/victor-papini" target="_blank">
