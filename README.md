@@ -71,6 +71,15 @@ I'm Victor, a technology professional with a background in data, business, and s
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtPapiniCostelletos&layout=compact&theme=github_dark&hide_border=true&hide_title=True" />
 </div>
 
+
+### [ PY-End to End Economic Data: ](https://github.com/vtPapiniCostelletos/PY-end-to-end-economic-data-BR)
+
+[![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=Solidy-Studies&theme=github_dark)](https://github.com/vtPapiniCostelletos/PY-end-to-end-economic-data-BR)
+<br>
+Descr. xxxxxx.
+<br>
+***Tools Utilized:*** Python, PostGreSQL, AirFlow, PySpark, RustFS, Dbt, Power BI, Docker
+
 ### [ Studies of Solidy: ](https://github.com/vtPapiniCostelletos/Solidy-Studies)
 
 [![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=Solidy-Studies&theme=github_dark)](https://github.com/VtPapini/Solidy-Studies)
