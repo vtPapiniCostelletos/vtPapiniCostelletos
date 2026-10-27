@@ -7,8 +7,6 @@
   </h1>
 </div>
 
-<br clear="both">
-
 ## 🚀 About Me
 
 <p data-importer="text" align="left">
@@ -73,10 +71,10 @@ I'm Victor, a technology professional with a background in data, business, and s
 ### [ Studies of Solidy: ](https://github.com/vtPapiniCostelletos/Solidy-Studies)
 
 [![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=Solidy-Studies&theme=github_dark)](https://github.com/VtPapini/Solidy-Studies)
-
 <br>
 Descr. xxxxxx.
 <br>
 ***Libraries Utilized:*** Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+
 
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
