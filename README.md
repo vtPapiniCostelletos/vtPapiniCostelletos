@@ -1,16 +1,16 @@
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif"  />
-
----
+<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnkxZ2xibWluOHpmNWxwa3IyZ3RtZTl1dmszc285cm5ra2RkMWY0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Titt7WbFzurny/giphy.gif" />
 
 <div align="left">
   <h1 style="display: inline;">I'm Victor Papini Costelletos
     <a href="https://linkedin.com/in/victor-papini" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="22" alt="LinkedIn logo"     style="vertical-align: middle; margin-left: 8px;" />
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="22" alt="LinkedIn logo" style="vertical-align: middle; margin-left: 8px;" />
     </a>
   </h1>
 </div>
+
+<br clear="both">
 
 ### 🚀 About Me
 
@@ -80,7 +80,8 @@ I'm Victor, a technology professional with a background in data, business, and s
 
 ### [ Studies of Solidy: ](https://github.com/vtPapiniCostelletos/Solidy-Studies)
 
-[![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=VtPapini&repo=Solidy-Studies&theme=github_dark)](https://github.com/VtPapini/Solidy-Studies)
+[![Solidy Studies](https://github-readme-stats.vercel.app/api/pin/?username=vtPapiniCostelletos&repo=Solidy-Studies&theme=github_dark)](https://github.com/VtPapini/Solidy-Studies)
+
 <br>
 Descr. xxxxxx.
 <br>
